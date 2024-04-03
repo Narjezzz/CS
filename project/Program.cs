@@ -1,0 +1,4 @@
+﻿//:D
+// SolutionBook
+// SolutionRatio
+// SolutionVector
